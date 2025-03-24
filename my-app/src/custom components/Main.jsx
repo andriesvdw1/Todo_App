@@ -1,9 +1,9 @@
 import './Main.css';
-import SingleTask from './SingleTask';
+import TaskList from './TaskList';
 function Main() {
   return (
     <main className="main">
-        <SingleTask/>
+        <TaskList/>
     </main>
   )
 }
